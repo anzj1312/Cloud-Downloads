@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6818",
+  "folder": "YouTube__watch_20260615115355_d6d78c",
+  "base_name": "THE_AMAZING_DIGITAL_CIRCUS_-_Ep_8_hjsakldfhl_8_P4HdwijYFeY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/anzj1312/Cloud-Downloads/releases/tag/co-releases-v1-6818",
+  "files": [
+    {
+      "name": "THE_AMAZING_DIGITAL_CIRCUS_-_Ep_8_hjsakldfhl_8_P4HdwijYFeY_720p.mp4",
+      "url": "https://github.com/anzj1312/Cloud-Downloads/releases/download/co-releases-v1-6818/THE_AMAZING_DIGITAL_CIRCUS_-_Ep_8_hjsakldfhl_8_P4HdwijYFeY_720p.mp4",
+      "api_url": "https://api.github.com/repos/anzj1312/Cloud-Downloads/releases/assets/448131440",
+      "id": 448131440,
+      "size": 269038445,
+      "download_count": 0
+    }
+  ]
+}
